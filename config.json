@@ -1,0 +1,11 @@
+{
+  "model_name": "google/vit-base-patch16-224",
+  "image_size": 224,
+  "num_classes": 50,
+  "regression_outputs": 4,
+  "batch_size": 16,
+  "epochs": 10,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "device": "cuda"
+}

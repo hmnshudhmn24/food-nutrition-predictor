@@ -1,0 +1,11 @@
+torch>=1.12
+torchvision
+transformers>=4.30
+datasets
+pandas
+numpy
+Pillow
+scikit-learn
+tqdm
+accelerate
+loguru

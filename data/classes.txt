@@ -1,0 +1,5 @@
+Burger
+Pizza
+Salad
+Sushi
+Pasta
