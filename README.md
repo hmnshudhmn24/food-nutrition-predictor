@@ -83,4 +83,4 @@ food-nutrition-predictor/
 - If you have few classes or small dataset, apply heavy augmentation.
 - Calorie/macros targets can be normalized (optional) — this repo expects raw grams/calorie values.
 
----
+
